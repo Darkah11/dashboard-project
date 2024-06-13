@@ -2,7 +2,7 @@
 
 import Image from 'next/image'
 import React from 'react'
-import logo from '../Assets/logo.png'
+import logo from '@/app/Assets/Logo.png'
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
 
