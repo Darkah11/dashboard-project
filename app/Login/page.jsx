@@ -1,6 +1,6 @@
 import Image from 'next/image'
-import logo from './Assets/Logo.png'
-import design from './Assets/Circle.png'
+import logo from '@/app/Assets/Logo.png'
+import design from '@/app/Assets/Circle.png'
 
 export default function Login() {
   return (
